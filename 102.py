@@ -22,5 +22,3 @@ elif(step == '5'):
 
 if(step >= '6'):
     print("Sorry! There are only 5 steps.")
-
-print("                          Made By Dushyant")
